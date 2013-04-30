@@ -74,4 +74,4 @@ copyright and license
 © 2013 Suke-Juu development comittee.  
 Suke-Juu by Suke-Juu development comittee is licensed under a Creative Commons 表示 3.0 非移植License.
 
-*3.2 最後に  
+###3.2 最後に  
