@@ -77,4 +77,4 @@ Suke-Juu by Suke-Juu development comittee is licensed under a Creative Commons �
 *3.2 最後に  
 special thanks  
 　・Usagi Ito様  
-　　・今回の制作に多大_（すぎる）_な助力とそれに伴う怒りとストレスに謝罪すると共にこの場を借りて深く感謝致します。
+　　・今回の制作に多大（すぎる）な助力とそれに伴う怒りとストレスに謝罪すると共にこの場を借りて深く感謝致します。
