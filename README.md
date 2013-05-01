@@ -83,11 +83,11 @@ __見る  設定  登録__
 - [Smarty-3.1.13](http://www.smarty.net/)
     - License: LGPL
 
-### application server
+#### application server
 
 - [php-5.4](http://php.net/)
 
-## copyright and license
+# copyright and license
 
 &copy; 2013 Suke-Juu development comittee.
 
