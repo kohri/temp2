@@ -3,13 +3,13 @@
 __※このアプリケーション、音が出る場合がございますれば十分に注意するでござるよ__  
 
 ******
-  *1-1 システムについて  
-  *1-2 推奨環境について  
-  *1-3 マニュアルについて  
-  *2-1 基本マニュアル  
-  *2-2 別途マニュアルについて  
-  *3-1 使用したもの及びコピーライト  
-  *3-2 最後に  
+* 1-1 システムについて  
+* 1-2 推奨環境について  
+* 1-3 マニュアルについて  
+* 2-1 基本マニュアル  
+* 2-2 別途マニュアルについて  
+* 3-1 使用したもの及びコピーライト  
+* 3-2 最後に  
 ******
 
 ###1.1 システムについて  
@@ -31,7 +31,7 @@ __※このアプリケーション、音が出る場合がございますれば
 　・基本マニュアルも兼ねているこのREADMEと詳しく説明している別途マニュアルの2つを用意したのでござる。  
 　　こちらでは基本的な機能の説明をするでござるよ。  
 
-###2.1 基本マニュアル  
+###2.1 基本マニュアル
 　・起動するとホーム画面に飛ぶでござる。  
 　　　・見る  
 　　　・設定  
@@ -49,27 +49,27 @@ __※このアプリケーション、音が出る場合がございますれば
 　上記に当てはまる場合は別途マニュアルをご参照するでござる。
 
 ###3.1 使用したもの及びコピーライト  
-　-font  
+- font  
         衡山毛筆フォント行書  
         License: public domain    
-　-voice  
+- voice  
         OpenJTalk  
         License: Modified BSD    
-　-picture  
+- picture  
         Iwate Park Views 1  
         License: CC-BY-NC-ND    
-　-javascript libraries  
+- javascript libraries  
         Google Developers  
         jQuery  
         License: MIT    
         jquery.deviantartmuro  
         License: BSD 3-Clause    
-  -php libraries  
+- php libraries  
         log4php-2.3.0  
         License: Apache 2.0    
         Smarty-3.1.13  
         License: LGPL    
-　-application server  
+- application server  
         php-5.4
 copyright and license  
 © 2013 Suke-Juu development comittee.  
