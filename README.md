@@ -1,4 +1,4 @@
-#README りーどみー
+##README りーどみー
 
 __※このアプリケーション、音が出る場合がございますれば十分に注意するでござるよ__  
 
@@ -87,7 +87,7 @@ __見る  設定  登録__
 
 - [php-5.4](http://php.net/)
 
-# copyright and license
+## copyright and license
 
 &copy; 2013 Suke-Juu development comittee.
 
