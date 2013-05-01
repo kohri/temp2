@@ -3,6 +3,7 @@
 __※このアプリケーション、音が出る場合がございますれば十分に注意するでござるよ__  
 
 ******
+
 * 1-1 システムについて  
 * 1-2 推奨環境について  
 * 1-3 マニュアルについて  
@@ -10,6 +11,7 @@ __※このアプリケーション、音が出る場合がございますれば
 * 2-2 別途マニュアルについて  
 * 3-1 使用したもの及びコピーライト  
 * 3-2 最後に  
+
 ******
 
 ###1.1 システムについて  
@@ -71,6 +73,7 @@ __※このアプリケーション、音が出る場合がございますれば
         License: LGPL    
 - application server  
         php-5.4
+
 copyright and license  
 © 2013 Suke-Juu development comittee.  
 Suke-Juu by Suke-Juu development comittee is licensed under a Creative Commons 表示 3.0 非移植License.
