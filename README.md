@@ -26,8 +26,8 @@ __※このアプリケーション、音が出る場合がございますれば
 　　※・・・権限を持つユーザのみでござるよ。
 
 ###1.2 推奨環境について  
-　・基本的にはどのブラウザでも使用可能でござる。  
-　　※最新のブラウザ環境でご使用するでござるよ。
+基本的にはどのブラウザでも使用可能でござる。  
+※最新のブラウザ環境でご使用するでござるよ。
 
 ###1.3 マニュアルについて  
 　・基本マニュアルも兼ねているこのREADMEと詳しく説明している別途マニュアルの2つを用意したのでござる。  
@@ -78,4 +78,4 @@ copyright and license
 © 2013 Suke-Juu development comittee.  
 Suke-Juu by Suke-Juu development comittee is licensed under a Creative Commons 表示 3.0 非移植License.
 
-###3.2 最後に  
+
