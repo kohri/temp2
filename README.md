@@ -50,8 +50,8 @@ __※このアプリケーション、音が出る場合がございますれば
 
 ###3.1 使用したもの及びコピーライト  
 　-font  
-    +衡山毛筆フォント行書  
-    +License: public domain    
+    衡山毛筆フォント行書  
+    License: public domain    
 　-voice  
     OpenJTalk  
     License: Modified BSD    
