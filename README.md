@@ -50,27 +50,27 @@ __※このアプリケーション、音が出る場合がございますれば
 
 ###3.1 使用したもの及びコピーライト  
 　-font  
-    衡山毛筆フォント行書  
-    License: public domain    
+        衡山毛筆フォント行書  
+        License: public domain    
 　-voice  
-    OpenJTalk  
-    License: Modified BSD    
+        OpenJTalk  
+        License: Modified BSD    
 　-picture  
-    Iwate Park Views 1  
-    License: CC-BY-NC-ND    
+        Iwate Park Views 1  
+        License: CC-BY-NC-ND    
 　-javascript libraries  
-    Google Developers    
-    jQuery  
-    License: MIT    
-    jquery.deviantartmuro  
-    License: BSD 3-Clause    
+        Google Developers  
+        jQuery  
+        License: MIT    
+        jquery.deviantartmuro  
+        License: BSD 3-Clause    
   -php libraries  
-    log4php-2.3.0  
-    License: Apache 2.0    
-    Smarty-3.1.13  
-    License: LGPL    
+        log4php-2.3.0  
+        License: Apache 2.0    
+        Smarty-3.1.13  
+        License: LGPL    
 　-application server  
-　　php-5.4      
+        php-5.4
 copyright and license  
 © 2013 Suke-Juu development comittee.  
 Suke-Juu by Suke-Juu development comittee is licensed under a Creative Commons 表示 3.0 非移植License.
